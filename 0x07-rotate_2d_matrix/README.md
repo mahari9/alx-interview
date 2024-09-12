@@ -32,7 +32,7 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
     * [More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists "More on Lists")
 
 * **GeeksforGeeks Articles:**
-    * [Inplace rotate square matrix by 90 degrees](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/"Inplace rotate square matrix by 90 degrees")
+    * [Inplace rotate square matrix by 90 degrees](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/ "Inplace rotate square matrix by 90 degrees")
     * [Transpose a matrix in Single line in Python](https://www.geeksforgeeks.org/transpose-matrix-single-line-python/ "Transpose a matrix in Single line in Python")
 
 * **TutorialsPoint:**
